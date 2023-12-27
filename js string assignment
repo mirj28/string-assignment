@@ -1,0 +1,2 @@
+var B = "This is a string";
+window.alert(B)
